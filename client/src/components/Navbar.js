@@ -18,7 +18,7 @@ const Navbar = () => {
       <Link to={'/classes'} class="nav-link">Classes</Link>
       </li>
       <li class="nav-item">
-        <Link to={'trainers'} class="nav-link">Tutors</Link>
+        <Link to={'tutors'} class="nav-link">Tutors</Link>
       </li>
       <li class="nav-item">
       <Link to={'/signup'} class="nav-link">Sign Up</Link>
